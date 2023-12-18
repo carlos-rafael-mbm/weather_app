@@ -1,5 +1,5 @@
 class ApiList {
-  static String? server = 'http://localhost:4000/api/';
+  static String? server = 'https://weather-api-n8wf.onrender.com/api/';
   static String? weather = 'weather';
   static String? icon = 'weather/image';
 }
